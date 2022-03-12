@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
+
+html{
+    background-color: black;
+    font-family: 'Passion One';
+}
+body {
+  color: white;
+    }
+
+    
+    section{
+        width: 100vw;
+        height: 100vh;
+    }
+    div{
+        font-family: 'Passion One';
+        font-size: 5rem;
+    }
+
+    .a{
+        font-family: 'Passion One';
+        position: absolute;
+        top: 30%;
+        left: 37.5%;
+        font-size: 12rem;
+    }
+
+    .b{
+        font-family: 'Passion One';
+        position: absolute;
+        top: 50vh;
+        left: 12.5vw;
+        font-size: 8rem;
+    }
+    .c{
+        font-family: 'Passion One';
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        font-size: 12rem;
+    }
+
+    .dg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .d{
+z-index: 9;
+        text-align: center;
+        font-size: 8rem;
+    }
+    .d1{
+        text-align: center;
+        font-size: 30rem;
+        opacity: 0.1;
+
+    }
+    .d2{
+        text-align: center;
+        font-size: 15rem;
+        opacity: 0.2;
+    }
