@@ -15,6 +15,9 @@ body {
         height: 100vh;
     }
 
+    .sec1{
+        background-color: crimson;
+    }
     div{
         font-family: 'Passion One';
         font-size: 5rem;
@@ -78,3 +81,7 @@ z-index: 9;
         width: 100%;
     }
 
+
+    .wild1{
+
+    }
