@@ -1,0 +1,14 @@
+.item1{
+    grid-area: 1/5/2/5;
+    background-color: aqua;
+}
+.i2{
+    grid-area: 1/3/3/2;
+    background-color: blue;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(3,1fr);
+}
