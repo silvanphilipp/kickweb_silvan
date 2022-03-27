@@ -58,6 +58,7 @@ span{
     transform: translateY(20vh);
     display: inline-block;
     text-shadow: 0 0 0 whitesmoke;
+
     animation: smoky 4s 3s both;
     font-size: 20vw;
 
@@ -67,6 +68,7 @@ span{
     animation-name: smoky-mirror;
   }
   
+ 
   @keyframes smoky {
     60% {
       text-shadow: 0 0 40px whitesmoke;
@@ -155,10 +157,9 @@ span{
     }
 
     @keyframes visc{
-      from { opacity: 0; 
-      font-size: 20vw;}
+      from { opacity: 0; }
       to { opacity: 1;
-      font-size: 15vw; }
+       }
     }
 
     
