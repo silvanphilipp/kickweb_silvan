@@ -1,27 +1,32 @@
-div{
+div {
     font-size: 50px;
     background-color: aqua;
     color: bisque;
     padding: 60px;
 }
-p{
+
+p {
     background-color: black;
     color: aliceblue;
     padding: 20px;
     border: 30px solid pink;
 }
-span{
+
+span {
     background-color: black;
     color: blueviolet;
 }
-.ex1{
+
+.ex1 {
     display: none
 }
-.ex2{
+
+.ex2 {
     display: inline;
     box-shadow: 6px 6px 15px 10px red;
 }
-h1{
+
+h1 {
     text-align: center;
     font-style: oblique;
 }
