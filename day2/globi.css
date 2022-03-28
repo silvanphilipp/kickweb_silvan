@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap');
-
-h1{
+h1 {
     font-family: 'Satisfy';
     color: rgb(121, 121, 168);
 }
-.snowflake{
+
+.snowflake {
     color: blueviolet;
-    font-size: 155px;}
-p{
+    font-size: 155px;
+}
+
+p {
     color: darkred !important;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-#wrapper{
+#wrapper {
     text-align: right;
 }
