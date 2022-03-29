@@ -1,17 +1,7 @@
-body {
-    color: #ccc;
-    background: #111;
-    font-family: sans-serif;
-}
-
-section {
-    padding: 20px;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
 .c {
     font-size: 15vw;
     line-height: 1;
-    display: inline-block;
     color: #fff;
     z-index: 2;
     /* Bright things in dark environments usually cast that light, giving off a glow */
