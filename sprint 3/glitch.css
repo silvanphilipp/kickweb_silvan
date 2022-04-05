@@ -8,6 +8,61 @@
     filter: drop-shadow(0 1px 3px);
 }
 
+.c2 {
+    opacity: 0.8;
+    text-align: center;
+    font-size: 5vw;
+    line-height: 1;
+    color: #fff;
+    z-index: 2;
+    /* Bright things in dark environments usually cast that light, giving off a glow */
+    filter: drop-shadow(0 1px 3px);
+}
+
+.c3 {
+    opacity: 0.65;
+    text-align: center;
+    font-size: 7vw;
+    line-height: 1;
+    color: #fff;
+    z-index: 2;
+    /* Bright things in dark environments usually cast that light, giving off a glow */
+    filter: drop-shadow(0 1px 3px);
+}
+
+.c4 {
+    opacity: 0.4;
+    text-align: center;
+    font-size: 9vw;
+    line-height: 1;
+    color: #fff;
+    z-index: 2;
+    /* Bright things in dark environments usually cast that light, giving off a glow */
+    filter: drop-shadow(0 1px 3px);
+}
+
+.c5 {
+    opacity: 0.25;
+    text-align: center;
+    font-size: 11vw;
+    line-height: 1;
+    color: #fff;
+    z-index: 2;
+    /* Bright things in dark environments usually cast that light, giving off a glow */
+    filter: drop-shadow(0 1px 3px);
+}
+
+.c6 {
+    opacity: 0.1;
+    text-align: center;
+    font-size: 13vw;
+    line-height: 1;
+    color: #fff;
+    z-index: 2;
+    /* Bright things in dark environments usually cast that light, giving off a glow */
+    filter: drop-shadow(0 1px 3px);
+}
+
 .layers {
     position: relative;
 }

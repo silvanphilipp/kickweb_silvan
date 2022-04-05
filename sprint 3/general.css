@@ -280,3 +280,42 @@ span:nth-of-type(21) {
     text-align: center;
     font-size: 6vw;
 }
+
+.sec4 {
+    position: relative;
+}
+
+.sec4>div {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    width: 100%;
+}
+
+.da2 {
+    text-align: center;
+    font-size: 20vw;
+    opacity: 0.1;
+    filter: drop-shadow(0 10px 30px);
+}
+
+.da1 {
+    text-align: center;
+    font-size: 7vw;
+    opacity: 0.2;
+    filter: drop-shadow(0 20px 30px);
+}
+
+.sec5>section {
+    height: 30vh;
+}
+
+.flexcon2 {
+    justify-content: end;
+    width: 98vw;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    transform: translateY(60%);
+}
