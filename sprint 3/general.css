@@ -15,7 +15,7 @@ body {
 
 section {
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 
@@ -50,8 +50,8 @@ div {
 
 .container {
     transform: translateY(-50vh);
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: 3fr 1fr 3fr;
